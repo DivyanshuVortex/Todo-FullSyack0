@@ -8,7 +8,7 @@ A simple checklist for backend development of a basic task manager system.
 ## ✅ Task Management
 
 - Create Task (API route + DB schema)
-- Get Tasks (List all tasks for logged-in user)
+- Get Tasks (List all tasks)
 - Delete Task (Remove task by ID)
 
 ---
@@ -26,6 +26,6 @@ A simple checklist for backend development of a basic task manager system.
 - Node.js
 - Express.js
 - MongoDB (with Mongoose)
-- JSON Web Tokens (JWT)
+
 
 

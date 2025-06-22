@@ -17,7 +17,7 @@ A simple checklist for backend development of a basic task manager system.
 ## 🧪 Testing (Optional)
 
 - Postman Collection for all endpoints
-- Basic validation checks (e.g. empty input, invalid token)
+- Basic validation checks (e.g. empty input)
 
 ---
 

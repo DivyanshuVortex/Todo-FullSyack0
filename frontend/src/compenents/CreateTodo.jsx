@@ -24,10 +24,6 @@ export function CreateTodo() {
         // Clear inputs after successful submission
         setTitle("");
         setDescription("");
-      })
-      .catch((err) => {
-        console.error("Failed to add todo", err);
-        alert("Error adding todo");
       });
   };
 
